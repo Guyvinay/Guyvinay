@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences 
 
-- 👨‍💻 All of my projects are available at Github and  https://Guyvinay.github.io/](https://Guyvinay.github.io/)
+- 👨‍💻 All of my projects are available at Github and  https://github.com/Guyvinay/Guyvinay.github.io
 
 - 💬 Ask me about HTML, CSS, JavaScript, JAVA , MySql, Hibernet & DSA
 
