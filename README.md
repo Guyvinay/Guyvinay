@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently pursuing JAVA Backed Developer
 
-- 🌱 I’m currently learning JAVA..
+- 🌱 I’m currently learning JAVA
 
-- 📄 Know about my experiences [Resume](...)
+- 📄 Know about my experiences 
 
-- 👨‍💻 All of my projects are available at Github and [Portfolio](...)
+- 👨‍💻 All of my projects are available at Github and 
 
-- 💬 Ask me about HTML, CSS, JavaScript, JAVA & DSA
+- 💬 Ask me about HTML, CSS, JavaScript, JAVA , MySql, Hibernet & DSA
 
 - 📫 How to reach me mrsinghvinay563@gmail.com
 
