@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay Singh</h1>
-<h3 align="center">A passionate Full Stack Developer </h3>
+<h3 align="center">A passionate JAVA Backed Developer </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
