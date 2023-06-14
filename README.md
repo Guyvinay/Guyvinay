@@ -113,15 +113,7 @@
 		 <a href="https://github.com/Guyvinay">
 		 <img
 		      src="https://github-readme-streak-stats.herokuapp.com?user=Guyvinay&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
-		      alt="streak" width="70%"/>
-		</a>
 
-		   <img width="28%" src="https://user-images.githubusercontent.com/112753481/216208514-cfc0f69b-978f-4e78-b04e-5db9f1316eb2.gif" alt="codergif"/>
-		</p>
-		<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
-		<br>
-
-	
 <p>
 		 <a href="https://github.com/Guyvinay"><span>
 		      <img align="left"
