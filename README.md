@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Guyvinay&label=Profile%20views&color=0e75b6&style=flat" alt="Guyvinay" /> </p>
 
-<!-- <p align="left"> <a href="https://twitter.com/AnjaliDhanjode" target="blank"><img src="https://img.shields.io/twitter/follow/AnjaliDhanjode?logo=twitter&style=for-the-badge" alt="AnjaliDhanjode" /></a> </p> -->
+
 
 - 🔭 I’m currently pursuing JAVA Backed Developer
 
@@ -30,7 +30,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<!-- <a href="https://twitter.com/AnjaliDhanjode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AnjaliDhanjode" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/vinay-kumar-singh-849357253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil-linkid" height="30" width="40" /></a>
 </p>
 
@@ -67,8 +66,7 @@
  </div>
 </div>
 
-<!-- <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> -->
+
 
 <hr />
 
@@ -89,9 +87,7 @@
      <p align="center">                                                                                                 
     <a href="https://github.com/Guyvinay/github-readme-stats"><img alt="Guyvinay Github Stats" src="https://github-readme-stats.vercel.app/api?username=Guyvinay&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Guyvinay" /></a>
     </p> 
-  <!--  
- <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
-  -->
+
 
 <br/>
 <br/>
@@ -108,49 +104,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guyvinay&" alt="guyvinay" /></p> 
 
-![GithubBannerX](https://github.com/Guyvinay/Guyvinay/assets/112753481/69bf1530-36cb-49cd-9084-ce7730d82210)
-
-		- :blue_book: Analytical and detail-oriented aspiring Full Stack Developer. 
-		- :seedling: I’m currently pursuing Masai Fullstack Web-development Course (Full-Time). 
-		- :sparkling_heart: Checkout my Portfolio : <a href="https://Guyvinay.github.io/">Guyvinay.github.io</a>  .  Contact Me Here ⏬ <br>
-		<p align="center"><a href="https://www.linkedin.com/in/kunal-mehra-thelifeofcoder/"><img src="https://img.shields.io/badge/KunalMehra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-		  <a href="https://twitter.com/KunalMe57345061" target="_blank"><img src="https://img.shields.io/badge/Guyvinay%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> 
-		      <a href="https://www.quora.com/profile/Kunal-Mehra-160"> <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" alt="Quora" />  </a>
-		  <a href="https://www.reddit.com/user/Eren-Bunny-1634" target="_blank"><img src="https://img.shields.io/badge/KunalMehra%20-%237289DA.svg?&style=for-the-badge&logo=reddit&logoColor=black"/></a>
-		    <a> <img src="https://komarev.com/ghpvc/?username=Guyvinay&label=Profile%20viewers:&color=blue&style=for-the-badge" alt="Kunal Mehra Profile views" />  </a>
-
-		</p>
-
-		<!-- # 📌 Techstack/Skills  :- 
-		<p align="center">
-		  <img src="https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png" alt="Tools Custom Image"/>
-		</p>
-		<br> -->
-
-
-		# 📌 Tools I play with-
-		<p align="center" style="pointer-events:none">
-		    <img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" width="50" alt="VSCODE"/>
-		     <img src="https://user-images.githubusercontent.com/112753481/215633046-9b686f6d-6633-4972-9817-cdaf3622e2d9.png" width="50" alt="Netlify"/>
-		    <img src="https://user-images.githubusercontent.com/112753481/215638332-e3df85a5-fc2f-43ca-b26b-0e6890b90089.png" width="70" height="50" alt="BOOTSTRAP"/>
-		       <img src="https://user-images.githubusercontent.com/112753481/215635834-8b98cc06-de8f-489c-9ed6-39c82efd84c5.png" width="50" alt="Github"/>
-		      <img src="https://user-images.githubusercontent.com/112753481/215633053-7c8a6a09-1699-4b57-8278-69c323707b30.jpg" width="50" alt="AWS"/>
-		    <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="50" alt="git"/>
-		    <img src="https://user-images.githubusercontent.com/112753481/215632928-83564962-99c4-4cfa-95d0-925b7fdc5b08.png" width="50" alt="jwt"/>
-		      <img src="https://user-images.githubusercontent.com/112753481/215634762-a5a4f148-c638-4d86-9507-9f73876c2756.jpeg" width="50" alt="tailwind"/>
-		       <img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" width="50" alt="sass"/>
-		        <img src="https://user-images.githubusercontent.com/112753481/215633001-5be8ef9e-9c1c-404d-a750-3e42f68267eb.png" width="55" alt="Figma"/>
-		     <img src="https://user-images.githubusercontent.com/112753481/215633028-c7cbccdb-42ef-4568-bf45-b332f490863f.png" width="50" alt="Vercel"/>
-		      <img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" width="50" alt="photoshop"/>
-		    <img src="https://user-images.githubusercontent.com/112753481/215633131-00986510-3fef-43c0-9ca5-7cafb661513e.png" width="50" alt="Postman"/>
-		      <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="50" alt="npm"/>
-		</p>
-		<br>
-
-
-
-
-
+	
 
 		# 📌 Github Stats
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
@@ -167,8 +121,7 @@
 		<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 		<br>
 
-		<!--Second  -->
-
+	
 <p>
 		 <a href="https://github.com/Guyvinay"><span>
 		      <img align="left"
@@ -181,21 +134,16 @@
 		  </p>
 		<br>
 
-		<br>
-
-		  
  <p align="center">
 		 <a href="https://github.com/Guyvinay">Hello Plesase Delete this<span>
 		     <img align="center"
 		       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guyvinay&theme=github_dark" width="100%" />
 		   </span></a>
              </p>
-		  
-		  <!-- Divider -->
+
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 		<br>
 
-		# 🍏 Working 24x7 in this schedule.
 
 <p align="center">
   <img src="https://media.tenor.com/K_75XqYil5MAAAAM/cat-kitten.gif" alt="Trophies Custom Image"/>
@@ -205,10 +153,6 @@
 
 
 <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
- 		<!-- Snake -->
-<!--           <p align="center">
-	<img src="https://github.com/Guyvinay/Guyvinay/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-           </p> -->
 
 <br>
 
