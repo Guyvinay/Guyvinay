@@ -135,7 +135,7 @@
 		<br>
 
  <p align="center">
-		 <a href="https://github.com/Guyvinay">Hello Plesase Delete this<span>
+		 <a href="https://github.com/Guyvinay"><span>
 		     <img align="center"
 		       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guyvinay&theme=github_dark" width="100%" />
 		   </span></a>
