@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Vinay Singh</h1>
 <h3 align="center">A passionate JAVA Backed Developer </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/Guyvinay /readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Vinay Kumar Singh; I am a Java Backed Developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
@@ -14,13 +13,9 @@
 
 - 🔭 I’m currently pursuing JAVA Backed Developer
 
-- 🌱 I’m currently learning JAVA
-
-- 📄 Know about my experiences 
-
 - 👨‍💻 All of my projects are available at Github and  [https://github.com/Guyvinay/Guyvinay.github.io](https://guyvinay.github.io/)
 
-- 💬 Ask me about HTML, CSS, JavaScript, JAVA , MySql, Hibernet & DSA
+- 💬HTML, CSS, JavaScript, JAVA , MySql, Hibernet & DSA
 
 - 📫 How to reach me mrsinghvinay563@gmail.com
 
