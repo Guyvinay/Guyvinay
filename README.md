@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at Github and  [https://github.com/Guyvinay/Guyvinay.github.io](https://guyvinay.github.io/)
 
-- 💬HTML, CSS, JavaScript, JAVA , MySql, Hibernet & DSA
+- 💬 JAVA , MySql, Spring Framework, Spring Boot, Hibernet, HTML, CSS, JavaScript& DSA
 
 - 📫 How to reach me mrsinghvinay563@gmail.com
 
@@ -74,12 +74,8 @@
 
 
 <br/>
-<br/>
 <a href="https://github.com/Guyvinay/github-readme-activity-graph"><img alt="Guyvinay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Guyvinay&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-
-
-<br/>
 <br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guyvinay&show_icons=true&locale=en&layout=compact" alt="anjalidhanjode28" /></p>
