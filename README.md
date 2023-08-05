@@ -13,11 +13,10 @@
 
 - 🔭 I’m currently pursuing JAVA Backed Developer
 
-- 👨‍💻 All of my projects are available at Github and  [https://github.com/Guyvinay/Guyvinay.github.io](https://guyvinay.github.io/)
 
 - 💬 JAVA , MySql, Spring Framework, Spring Boot, Hibernet, HTML, CSS, JavaScript& DSA
 
-- 📫 How to reach me mrsinghvinay563@gmail.com
+- 📫 mrsinghvinay563@gmail.com
 
 
 
