@@ -1,27 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Vinay Singh</h1>
 <h3 align="center">A passionate JAVA Backed Developer </h3>
-
 <p align="center">
   <a href="https://github.com/Guyvinay /readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Vinay Kumar Singh; I am a Java Backed Developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Guyvinay&label=Profile%20views&color=0e75b6&style=flat" alt="Guyvinay" /> </p>
-
-
-
 - 🔭 I’m currently pursuing JAVA Backed Developer
-
-
 - 💬 JAVA , MySql, Spring Framework, Spring Boot, Hibernet, HTML, CSS, JavaScript& DSA
-
 - 📫 mrsinghvinay563@gmail.com
-
-
-
 <hr />
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/vinay-kumar-singh-849357253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil-linkid" height="30" width="40" /></a>
@@ -63,15 +52,12 @@
     <a href="https://github.com/Guyvinay/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Guyvinay streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Guyvinay&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
-</p>                                                                                                                                              
-
+</p>                                                                                                                                     
   <br/>
   <br/>
      <p align="center">                                                                                                 
     <a href="https://github.com/Guyvinay/github-readme-stats"><img alt="Guyvinay Github Stats" src="https://github-readme-stats.vercel.app/api?username=Guyvinay&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Guyvinay" /></a>
-    </p> 
-
-
+    </p>
 <br/>
 <a href="https://github.com/Guyvinay/github-readme-activity-graph"><img alt="Guyvinay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Guyvinay&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
@@ -82,9 +68,6 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=guyvinay&show_icons=true&locale=en" alt="guyvinay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guyvinay&" alt="guyvinay" /></p> 
-
-	
-
 		# 📌 Github Stats
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 		<!-- First -->
@@ -111,20 +94,14 @@
 		       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guyvinay&theme=github_dark" width="100%" />
 		   </span></a>
              </p>
-
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 		<br>
-
-
 <p align="center">
   <img src="https://media.tenor.com/K_75XqYil5MAAAAM/cat-kitten.gif" alt="Trophies Custom Image"/>
   <img src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif" alt="Trophies Custom Image"/>
   <img src="https://media.tenor.com/VdIKn05yIh8AAAAM/cat-sleep.gif" alt="Trophies Custom Image"/>
 </p>
-
-
 <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
-
 <br>
 
 
