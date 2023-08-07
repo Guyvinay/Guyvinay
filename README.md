@@ -55,7 +55,7 @@
 		    <img src="https://github.com/Guyvinay/Guyvinay/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 		</p><br>
 		 <p align="center">
-		  <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20me%20on%20Github%20for%20my%20future%20projects!;Connect%20with%20me%20on%20LinkedIn-%20Kunal_Mehra.;%20My%20mail%20is%20kunalmehra240304@gmail.com;I%20am%20ready%20for%20collaborations.;%20Fork,%20clone,%20star,%20or%20download;%20any%20repo%20of%20your%20choice!&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=16">
+		  <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20me%20on%20Github%20for%20my%20future%20projects!;Connect%20with%20me%20on%20LinkedIn-%20Vinay.;%20My%20mail%20is%20mrsinghvinay563@gmail.com;I%20am%20ready%20for%20collaborations.;%20Fork,%20clone,%20star,%20or%20download;%20any%20repo%20of%20your%20choice!&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=16">
 		</p>
 		### <p align="center">
 		 <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Always up for a chat about web development or design, check out some of my work on Github!</b> :)</em>
