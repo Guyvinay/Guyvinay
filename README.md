@@ -37,11 +37,7 @@
    <br/>
  </div>
 </div>
-
-
-
 <hr />
-
 ## 📊 My Github Stats
    <br/>   
     <p align="center">      
@@ -60,9 +56,7 @@
     </p>
 <br/>
 <a href="https://github.com/Guyvinay/github-readme-activity-graph"><img alt="Guyvinay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Guyvinay&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guyvinay&show_icons=true&locale=en&layout=compact" alt="anjalidhanjode28" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=guyvinay&show_icons=true&locale=en" alt="guyvinay" /></p>
@@ -70,7 +64,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guyvinay&" alt="guyvinay" /></p> 
 		# 📌 Github Stats
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
-		<!-- First -->
 		<p>
 		 <a href="https://github.com/Guyvinay">
 		 <img
