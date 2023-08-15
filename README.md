@@ -1,6 +1,6 @@
-![GithubBannerX](https://github.com/Guyvinay/Guyvinay/assets/112753481/69bf1530-36cb-49cd-9084-ce7730d82210)
+
 <br>
-		- :blue_book: Analytical and detail-oriented aspiring Full Stack Developer. 
+		- :blue_book: Analytical and detail-oriented aspiring Java Backend Developer. 
   <br>
 		- :seedling: I’m currently pursuing Masai Fullstack Web-development Course (Full-Time). 
   <br>
