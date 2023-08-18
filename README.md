@@ -2,7 +2,7 @@
 <br>
 		- :blue_book: Analytical and detail-oriented aspiring Java Backend Developer. 
   <br>
-		- :seedling: I’m currently pursuing Masai Fullstack Web-development Course (Full-Time). 
+		- :seedling: I’m currently pursuing Java Backend Development Course (Full-Time). 
   <br>
 		- :sparkling_heart: Checkout my Portfolio : <a href="https://Guyvinay.github.io/">Guyvinay.github.io</a>  . 
   <br>Contact Me Here ⏬ <br>
