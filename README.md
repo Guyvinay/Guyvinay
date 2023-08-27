@@ -1,65 +1,98 @@
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<br>
-		- :blue_book: Analytical and detail-oriented aspiring Java Backend Developer. 
-  <br>
-		- :seedling: I’m currently pursuing Java Backend Development Course (Full-Time). 
-  <br>
-		- :sparkling_heart: Checkout my Portfolio : <a href="https://Guyvinay.github.io/">Guyvinay.github.io</a>  . 
-  <br>Contact Me Here ⏬ <br>
-		<br>
-		# 📌 Github Stats
-		<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
-		<!-- First -->
-		<p>
-		 <a href="https://github.com/Guyvinay">
-		 <img
-		      src="https://github-readme-streak-stats.herokuapp.com?user=Guyvinay&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
-		      alt="streak" width="70%"/>
-		</a>
-		   <img width="28%" src="https://user-images.githubusercontent.com/112753481/216208514-cfc0f69b-978f-4e78-b04e-5db9f1316eb2.gif" alt="codergif"/>
-		</p>
-		<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
-		<br>
-		<!--Second  -->
-		 <p>
-		    <a href="https://github.com/Guyvinay"><span>
-		      <img align="left"
-		          src="https://github-readme-stats.vercel.app/api?username=Guyvinay&show_icons=true&locale=en&theme=github_dark&hide_border=true"
-		          alt="ovi" width="47%"  />
-		      <img align="right" 
-		          src="https://github-readme-stats.vercel.app/api/top-langs?username=Guyvinay&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true"
-		          alt="ovi" width="45%" />
-		      </span></a>
-		  </p>
-		<br>
-		<br>
-		  <p align="center">
-		    <a href="https://github.com/Guyvinay"><span>
-		        <img align="center"
-		          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guyvinay&theme=github_dark" width="100%" />
-		      </span></a>
-		  </p>
-		  <!-- Divider -->
-		<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
-		<br>
-		# 🍏 Working 24x7 in this schedule.
-		<p align="center">
-		  <img src="https://media.tenor.com/K_75XqYil5MAAAAM/cat-kitten.gif" alt="Trophies Custom Image"/>
-		  <img src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif" alt="Trophies Custom Image"/>
-		  <img src="https://media.tenor.com/VdIKn05yIh8AAAAM/cat-sleep.gif" alt="Trophies Custom Image"/>
-		</p>
-		<!-- Divider -->
-		<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
-		<!-- Snake -->
-		<p align="center">
-		    <img src="https://github.com/Guyvinay/Guyvinay/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-		</p><br>
-		 <p align="center">
-		  <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20me%20on%20Github%20for%20my%20future%20projects!;Connect%20with%20me%20on%20LinkedIn-%20Vinay.;%20My%20mail%20is%20mrsinghvinay563@gmail.com;I%20am%20ready%20for%20collaborations.;%20Fork,%20clone,%20star,%20or%20download;%20any%20repo%20of%20your%20choice!&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=16">
-		</p>
-		### <p align="center">
-		 <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Always up for a chat about web development or design, check out some of my work on Github!</b> :)</em>
-		</p>
-		<br>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guyvinay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guyvinay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/guyvinay/guyvinay/output/snake.svg" alt="Snake animation" />
+
+###<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guyvinay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guyvinay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/guyvinay/guyvinay/output/snake.svg" alt="Snake animation" />
+
+###
 	
