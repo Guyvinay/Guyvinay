@@ -1,4 +1,3 @@
-
 <br>
 		- :blue_book: Analytical and detail-oriented aspiring Java Backend Developer. 
   <br>
@@ -20,7 +19,6 @@
 		</p>
 		<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 		<br>
-		<!--Second  -->
 		 <p>
 		    <a href="https://github.com/Guyvinay"><span>
 		      <img align="left"
@@ -39,7 +37,6 @@
 		          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guyvinay&theme=github_dark" width="100%" />
 		      </span></a>
 		  </p>
-		  <!-- Divider -->
 		<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 		<br>
 		# 🍏 Working 24x7 in this schedule.
@@ -48,9 +45,7 @@
 		  <img src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif" alt="Trophies Custom Image"/>
 		  <img src="https://media.tenor.com/VdIKn05yIh8AAAAM/cat-sleep.gif" alt="Trophies Custom Image"/>
 		</p>
-		<!-- Divider -->
 		<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
-		<!-- Snake -->
 		<p align="center">
 		    <img src="https://github.com/Guyvinay/Guyvinay/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 		</p><br>
