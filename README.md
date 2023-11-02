@@ -14,7 +14,7 @@
 
 - 🔭 Currently pursuing Full Stack Web Development
 - 🌱 Currently learning *Angular js* 
-- 🌱 Currently working on *ProjectGrid*
+- 🌱 Currently working on <a href="https://project-grid.vercel.app/" target="_blank"> *ProjectGrid*</a> 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1bTzvc3n-9KUPXie_TPnTXY4dKYfTdgke/view?usp=sharing" target="_blank"> Resume</a>
 
 
