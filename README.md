@@ -12,10 +12,12 @@
 
 
 
-- 🔭 I’m currently pursuing Full Stack Web Development
+- 🔭 Currently pursuing Full Stack Web Development
 
-- 🌱 I’m currently learning *Angular js*
-
+- 🌱 Currently learning *Angular js*
+- 
+- 🌱 Currently working on *ProjectGrid*
+- 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1bTzvc3n-9KUPXie_TPnTXY4dKYfTdgke/view?usp=sharing" target="_blank"> Resume</a>
 
 
