@@ -54,15 +54,17 @@
 <img src="https://img.shields.io/badge/spring-339933?style=for-the-badge&logo=spring&logoColor=white" align="center" alt="Spring"/>
 <img src="https://img.shields.io/badge/springBoot-339933?style=for-the-badge&logo=springboot&logoColor=white" align="center" alt="SpringBoot"/>
 <img src="https://img.shields.io/badge/MYSQL-339933?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="mysql"/>
+<img src="https://img.shields.io/badge/Postgres-FF6C37?style=for-the-badge&logo=PostgreSQL&logoColor=white" align="center" alt="mysql"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" align="center" alt="jwt"/>
  </div>
   <div align="center"><h3 align="center">Tools</h3> 
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+   <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+   <img src="https://img.shields.io/badge/STS-IDE-FF6C37?style=for-the-badge&logo=Intellij&logoColor=white"  align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/Intellij-IDEA-FF6C37?style=for-the-badge&logo=Intellij&logoColor=white"  align="center" alt="git"/>
    <br/>
  </div>
 </div>
