@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Vinay Kumar Singh</h1>
 <h3 align="center">A passionate Full Stack Developer </h3>
 
@@ -10,22 +9,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Guyvinay&label=Profile%20views&color=0e75b6&style=flat" alt="Guyvinay" /> </p>
 
-
-
 - 🔭 Currently pursuing Full Stack Web Development
-- 🌱 Currently learning *Angular* , *Django* 
-- 🌱 Currently working on <a href="https://project-grid.vercel.app/" target="_blank"> *ProjectGrid*</a> , <a href="">*We_Care*</a> 
+- 🌱 Currently learning _Angular_ , _Django_
+- 🌱 Currently working on <a href="https://project-grid.vercel.app/" target="_blank"> _ProjectGrid_</a> , <a href="">_We_Care_</a>
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1n_vyvK39gNQzk6ZbD6086OZh61-m-cJg/view?usp=sharing" target="_blank"> Resume</a>
-
 
 - 👨‍💻 All of my projects are available at Github and <a href="https://guyvinay.github.io/" target="_blank">Portfolio</a>
 
-
-- 💬 Ask me about * Java, Spring Boot, MySql, HTML, CSS, JavaScript, Angular & DSA*
+- 💬 Ask me about _ Java, Spring Boot, MySql, HTML, CSS, JavaScript, Angular & DSA_
 
 - 📫 How to reach me *mrsinghvinay563@gmail.com*
-
-
 
 <hr />
 
@@ -38,6 +31,7 @@
 <hr />
 
 ## 🚀 Languages and Tools:
+
 <div align="center">
  
  <div align="center"><h3 align="center">Frontend</h3>
@@ -74,19 +68,12 @@
    <br/>
  </div>
 </div>
-
-<!-- <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> -->
-
 <hr />
 
 ## 📊 My Github Stats
 
-
 <br/>
 <br/>
-
-
 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 		
@@ -107,17 +94,15 @@ src="https://github-readme-stats.vercel.app/api?username=Guyvinay&show_icons=tru
 alt="ovi" width="47%"  />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guyvinay&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="ovi" width="45%" />
 </span></a>
-		  </p>
-		<br>
-		<br>
-		  <p align="center">
-		    <a href="https://github.com/Guyvinay"><span>
-		        <img align="center"
-		          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guyvinay&theme=github_dark" width="100%" />
-		      </span></a>
-		  </p>
-		<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
-		<br>
-		<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=guyvinay&theme=gotham&hide_border=true"/>
-
-	
+</p>
+<br>
+<br>
+<p align="center">
+	<a href="https://github.com/Guyvinay"><span>
+		<img align="center"
+			src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guyvinay&theme=github_dark" width="100%" />
+		</span></a>
+	</p>
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
+<br>
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=guyvinay&theme=gotham&hide_border=true"/>
