@@ -11,7 +11,7 @@
 
 - 🔭 Currently pursuing Full Stack Web Development
 - 🌱 Currently learning Microservices, DevOps
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/10LAHW0XVAF9FV9KUY5uUmja3OQ44BpfO/view?usp=sharing" target="_blank"> Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/109V6hf4yN_waaZL4WvTODudKAnWMGoZu/view?usp=sharing" target="_blank"> Resume</a>
 
 - 👨‍💻 All of my projects are available at Github and <a href="https://guyvinay.github.io/" target="_blank">Portfolio</a>
 
