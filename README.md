@@ -10,9 +10,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Guyvinay&label=Profile%20views&color=0e75b6&style=flat" alt="Guyvinay" /> </p>
 
 - 🔭 Currently pursuing Full Stack Web Development
-- 🌱 Currently learning _Angular_ , _Django_
-- 🌱 Currently working on <a href="https://project-grid.vercel.app/" target="_blank"> _ProjectGrid_</a> , <a href="">_We_Care_</a>
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1n_vyvK39gNQzk6ZbD6086OZh61-m-cJg/view?usp=sharing" target="_blank"> Resume</a>
+- 🌱 Currently learning Microservices, DevOps
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/10LAHW0XVAF9FV9KUY5uUmja3OQ44BpfO/view?usp=sharing" target="_blank"> Resume</a>
 
 - 👨‍💻 All of my projects are available at Github and <a href="https://guyvinay.github.io/" target="_blank">Portfolio</a>
 
